@@ -11,3 +11,4 @@ elif ali_age == 2:
 else:
     print("ali can not go to school. ")
 
+pakistan
